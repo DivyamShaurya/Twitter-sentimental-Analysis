@@ -1,2 +1,2 @@
 # Twitter-sentimental-Analysis
-Twitter Sentiment Analysis means, using advanced text mining techniques to analyze the sentiment of the text here, tweet in the form of positive and negative. Natural Language Processing is used in predicting the polarity of the sentence.
+The objective of this task is to detect hate speech in tweets. For the sake of simplicity, we say a tweet contains hate speech if it has a racist or sexist sentiment associated with it. So, the task is to classify racist or sexist tweets from other tweets.Natural language processing is applied for this.
